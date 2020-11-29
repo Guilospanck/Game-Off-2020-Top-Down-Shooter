@@ -778,7 +778,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f01dc545f00c3c540926be86ead6aa3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 50
+  health: 500
   damage: 20
   enemies:
   - {fileID: 813387412, guid: 0ec8c12502db0214898bf36bad82f84b, type: 3}
